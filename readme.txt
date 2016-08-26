@@ -1,2 +1,2 @@
-Git测试使用！！！
-Mac使用中！
+Git is tested！！！
+Mac is using！
